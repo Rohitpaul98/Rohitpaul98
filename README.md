@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rohitpaul98
-- 👀 I’m interested in MERN stack
+- 👀 I’m in MERN stack
 - 🌱 I’m currently learning MERN stack
 - 📫 reach me at rohitpaulofficial99@gmail.com
 
