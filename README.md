@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rohitpaul98
 - 👀 I’m in MERN stack
-- 🌱 I’m currently learning MERN stack
+- 🌱 I’m currently learning and working in MERN stack and Microsoft Botframework
 - 📫 reach me at rohitpaulofficial99@gmail.com
 
 <!---
